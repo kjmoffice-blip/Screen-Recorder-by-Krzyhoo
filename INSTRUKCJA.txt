@@ -1,0 +1,3 @@
+Źródła publiczne — instrukcje budowania i używania w README.md.
+Bieżąca weryfikacja: VERIFICATION.md.
+Lokalna kompilacja wymaga własnych zgód macOS i nie jest automatycznie notaryzowana.
